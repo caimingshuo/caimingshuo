@@ -1,2 +1,2 @@
 - 👋 Hi, I’m caimingshuo
-- 👀 I’m interested in 3d human
+- 👀 I’m interested in GenAI
